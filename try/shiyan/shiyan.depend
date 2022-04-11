@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1638429203 source:c:\users\nan\desktop\shiyan\shiyan\main.cpp
-	<iostream>
-	<windows.h>
-	<stdlib.h>
-	<ctime>
-
